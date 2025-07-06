@@ -29,6 +29,6 @@ All certificate images are available in the [`/images`](./images) folder.
 
 ### 📫 Connect with Me
 
-- <a href = 'www.linkedin.com/in/santosh-kumar-sk'>LinkedIn</a>
+- LinkedIn: [linkedin.com/in/santoshkumar](https://linkedin.com)
 - GitHub: [github.com/YourGitHubUsername](https://github.com)
 
