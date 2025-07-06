@@ -23,7 +23,17 @@ Welcome to my professional certification repository. This space highlights my co
 
 ## 📂 View Certificates
 
-All certificate images are available in the [`/images`](./images) folder.
+- <a href = 'https://github.com/SantoshKumar902/Certificates/blob/main/GROWAI%20Data%20analyst%20certificate.pdf'>Data Analytics by GROWAI EdTech</a>
+
+- <a href = 'https://github.com/SantoshKumar902/Certificates/blob/main/Excel%20Certificate%20by%20GROWAI.pdf'>Data Analysis using Excel</a>
+
+- <a href = 'https://github.com/SantoshKumar902/Certificates/blob/main/Power%20BI%20Certificate%20by%20GROWAI.pdf'>Data Analysis using Power BI</a>
+
+- <a href = 'https://github.com/SantoshKumar902/Certificates/blob/main/Python%20Basic%20to%20Advance.pdf'>Python: Basic to Advanced</a>
+
+- <a href = 'https://github.com/SantoshKumar902/Certificates/blob/main/Netflix%20movies%20recommandation%20Certificate.pdf'>Netflix Movie Recommendation Masterclass</a>
+
+- <a href = 'https://github.com/SantoshKumar902/Certificates/blob/main/PrepInsta%20Gen%20AI%20%20-%20Certificate.pdf'>Generative AI Fundamentals</a>
 
 ---
 
